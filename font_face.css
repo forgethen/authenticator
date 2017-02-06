@@ -1,0 +1,11 @@
+@font-face {
+    font-family:'Tahoma';
+    src: url('fonts/Tahoma.otf') format('opentype');
+    font-style: normal;
+    font-weight: 500;}
+
+@font-face {
+    font-family:'Arial';
+    src: url('fonts/Arial.otf') format('opentype');
+    font-style: normal;
+    font-weight: 700;}
